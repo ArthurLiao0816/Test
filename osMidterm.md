@@ -69,7 +69,7 @@
         * open source
         * modified Linux kernel
     * ios:
-        * max OS X kernel
+        * mac OS X kernel
         * 可以在不同CPU結構上運行`Max OS X`的應用程式
 
 # Ch 3 ( z % )
